@@ -10,6 +10,7 @@ Create changes to your code to add in your triangles. Test out the code, then co
 Commit your changes. Write an appropriate commit message to describe them.
 Create a pull request. This gives the original owner the opportunity to merge your changes with the original.
 The original owner will merge your changes, adding them to the code and combining with other contributors' work. :)
+
 Here is the image that we will be creating. Decide with your classmates which color triangles you will produce.
 
 <img width="599" height="430" alt="image" src="https://github.com/user-attachments/assets/65f69314-838d-4fbd-800f-c5991bab4b26" />
